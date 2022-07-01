@@ -28,7 +28,7 @@
 Download or clone this repo by using the link below:
 
 ```
-Not Updated
+https://github.com/HadesHo3820/FlutterTodoApp.git
 ```
 
 **Step 2:**
